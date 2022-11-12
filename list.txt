@@ -1,0 +1,21 @@
+Add Tokens and XP.js
+All Answers Correct.js
+Anti-Ban.js
+Auto Input Password.js
+Chest ESP.js
+Custom Blooks.js
+Flood Game.js
+Get Answer Points.js
+Godmode.js
+Manipulate Plus.js
+Max Abilities.js
+Select Any Blook.js
+Sell Dupes.js
+Set Crypto.js
+Set Frenzy Mode.js
+Set Gold.js
+Set Level.js
+Set Lure.js
+Set Password.js
+Set Weight.js
+Set XP.js
